@@ -1,1 +1,0 @@
-Clone the repo "[sveltekit-tailwind-shadcn-starter](https://github.com/VectorAgency/sveltekit-tailwind-shadcn-starter)" to the root of this directory.
